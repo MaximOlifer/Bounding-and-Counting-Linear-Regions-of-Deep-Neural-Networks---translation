@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.9)  1 OCT 2019 22:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.9)  8 OCT 2019 22:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -257,6 +257,8 @@ Package babel Info: Default for \cyrdash is provided on input line 157.
 \c@Lemma=\count91
 \c@Definition=\count92
 \c@Corollary=\count93
+\c@Proposition=\count94
+\c@Question=\count95
 )
 (/usr/share/texlive/texmf-dist/tex/latex/doublestroke/dsfont.sty
 Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
@@ -281,13 +283,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count94
+\inf@bad=\count96
 LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count95
-\leftroot@=\count96
+\uproot@=\count97
+\leftroot@=\count98
 LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count97
-\DOTSCASE@=\count98
+\classnum@=\count99
+\DOTSCASE@=\count100
 LaTeX Info: Redefining \ldots on input line 482.
 LaTeX Info: Redefining \dots on input line 485.
 LaTeX Info: Redefining \cdots on input line 606.
@@ -296,15 +298,15 @@ LaTeX Info: Redefining \cdots on input line 606.
 \big@size=\dimen106
 LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count99
-\c@MaxMatrixCols=\count100
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
 \dotsspace@=\muskip10
-\c@parentequation=\count101
-\dspbrk@lvl=\count102
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
 \tag@help=\toks17
-\row@=\count103
-\column@=\count104
-\maxfields@=\count105
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
 \andhelp@=\toks18
 \eqnshift@=\dimen107
 \alignsep@=\dimen108
@@ -346,39 +348,58 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Try loading font information for U+msa on input line 25.
+LaTeX Font Info:    Try loading font information for U+msa on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 25.
+LaTeX Font Info:    Try loading font information for U+msb on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Overfull \hbox (2.00024pt too wide) in paragraph at lines 28--29
+[]\T2A/cmr/m/it/12 (“ропическа€ гео-мет-ри€ гра-ни-цы ре-ше-ний). ѕусть $\OML/c
+mm/m/it/12 ^^W \OT1/cmr/m/n/12 :
+ []
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Tropical Geometry.aux) 
-) 
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (1.00699pt too wide) in paragraph at lines 40--40
+[]\T2A/cmr/bx/n/14.4 «онотопы, как гео-мет-ри-че-ские стро-и-тель-ные бло-
+ []
+
+[2] [3] [4] (./Tropical Geometry.aux) ) 
 Here is how much of TeX's memory you used:
- 2449 strings out of 494035
- 27644 string characters out of 6169001
- 91354 words of memory out of 5000000
- 6119 multiletter control sequences out of 15000+600000
- 13264 words of font info for 40 fonts, out of 8000000 for 9000
+ 2469 strings out of 494035
+ 27874 string characters out of 6169001
+ 95481 words of memory out of 5000000
+ 6135 multiletter control sequences out of 15000+600000
+ 16701 words of font info for 44 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 31i,4n,27p,1093b,133s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/dmitry/.texlive2018/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk
-> </home/dmitry/.texlive2018/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk
-> </home/dmitry/.texlive2018/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600pk
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Tropical Geometry.pdf" (1 page, 65208 bytes).
+ 31i,7n,27p,1751b,254s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/dmitry/.texlive2018/texmf-var/fo
+nts/pk/ljfour/lh/lh-t2a/lati0800.600pk> </home/dmitry/.texlive2018/texmf-var/fo
+nts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/dmitry/.texlive2018/texmf-var/fo
+nts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </home/dmitry/.texlive2018/texmf-var/fo
+nts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/dmitry/.texlive2018/texmf-var/fo
+nts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/dmitry/.texlive2018/texmf-var/fo
+nts/pk/ljfour/lh/lh-t2a/labx1728.600pk></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "Tropical Geometry.pdf" (4 pages, 174483 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 300 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
