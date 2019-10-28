@@ -24,4 +24,6 @@
 \newtheorem{Lemma}{Лемма}
 \newtheorem{Definition}{Определение}
 \newtheorem{Corollary}{Следствие}
+\newtheorem{Proposition}{Утверждение}
+\newtheorem{Question}{Вопрос}
 \newenvironment{Proof}{\par\noindent{\bf Доказательство.}}{\hfill$\scriptstyle\blacksquare$}
