@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.10.22)  17 NOV 2019 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.10.22)  17 NOV 2019 21:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -437,52 +437,109 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 26.
+LaTeX Font Info:    Try loading font information for U+msa on input line 21.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 26.
+LaTeX Font Info:    Try loading font information for U+msb on input line 21.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+Overfull \hbox (0.35213pt too wide) in paragraph at lines 101--102
+[]\T2A/cmr/m/it/12 »спользу€ обо-зна-че-ни€ вы-ше, тро-пи-че-ска€ ра-ци-о-наль-
+
+ []
+
+[5]
+Overfull \hbox (11.10332pt too wide) in paragraph at lines 108--109
+[]\T2A/cmr/m/n/12 Ќетрудно про-ве-рить, что мно-же-ство тро-пи-че-ских по-ли-но
+-мов $\U/msb/m/n/12 T\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 x[]; :::; x[]\OT1/cmr/m/
+n/12 ]$
+ []
+
+
+Overfull \hbox (15.66612pt too wide) in paragraph at lines 115--116
+\T2A/cmr/m/it/12 мно-же-ство тро-пи-че-ских ра-ци-о-наль-ных карт как $\OML/cmm
+/m/it/12 Rat\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 p; d\OT1/cmr/m/n/12 )$\T2A/cmr/m/
+it/12 . “ак, $\OML/cmm/m/it/12 Pol\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 d; \OT1/cmr
+/m/n/12 1) =
+ []
+
+[6]
+<pictures/tropical_curve.png, id=39, 366.61969pt x 181.42781pt>
+File: pictures/tropical_curve.png Graphic file (type png)
+<use pictures/tropical_curve.png>
+Package pdftex.def Info: pictures/tropical_curve.png  used on input line 134.
+(pdftex.def)             Requested size: 366.61879pt x 181.42737pt.
+<pictures/dual_subdivision.png, id=41, 382.42876pt x 282.30469pt>
+File: pictures/dual_subdivision.png Graphic file (type png)
+<use pictures/dual_subdivision.png>
+Package pdftex.def Info: pictures/dual_subdivision.png  used on input line 140.
+
+(pdftex.def)             Requested size: 382.42781pt x 282.30399pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./pictures/tropical_curve.png>]
+Overfull \hbox (9.96016pt too wide) in paragraph at lines 167--168
+[]$\OML/cmm/m/it/12 ^^N\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 )$ \T
+2A/cmr/m/n/12 фор-ми-ру-ет мно-го-гран-ный ком-плекс с по-мо-щью $\OT1/cmr/m/n/
+12 ^^A(\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 . ѕо (Maclagan
+ []
+
+[8 <./pictures/dual_subdivision.png>]
+Overfull \hbox (4.59431pt too wide) in paragraph at lines 177--178
+[]\T2A/cmr/m/n/12 «аметим, что тро-пи-че-ское \T2A/cmr/m/it/12 по-ли-но-ми-аль-
+ное \T2A/cmr/m/n/12 отоб-ра-же-ние $\OML/cmm/m/it/12 F \OMS/cmsy/m/n/12 2 \OML/
+cmm/m/it/12 Pol\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 d; m\OT1/cmr/m/n/12 )$
+ []
+
+[9]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 221.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (2.00024pt too wide) in paragraph at lines 30--31
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 221.
+ [10] [11]
+Overfull \hbox (2.00024pt too wide) in paragraph at lines 239--240
 []\T2A/cmr/m/it/12 (“ропическа€ гео-мет-ри€ гра-ни-цы ре-ше-ний). ѕусть $\OML/c
 mm/m/it/12 ^^W \OT1/cmr/m/n/12 :
  []
 
-[1
+[12] [13] [14] [15]
+Overfull \hbox (2.00024pt too wide) in paragraph at lines 331--332
+[]\T2A/cmr/m/it/12 (“ропическа€ гео-мет-ри€ гра-ни-цы ре-ше-ний). ѕусть $\OML/c
+mm/m/it/12 ^^W \OT1/cmr/m/n/12 :
+ []
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (1.00699pt too wide) in paragraph at lines 42--42
+
+Overfull \hbox (1.00699pt too wide) in paragraph at lines 343--343
 []\T2A/cmr/bx/n/14.4 «онотопы, как гео-мет-ри-че-ские стро-и-тель-ные бло-
  []
 
-[2] [3]
-<pictures/1.png, id=28, 637.38126pt x 335.2525pt>
+[16] [17] [18]
+<pictures/1.png, id=87, 637.38126pt x 335.2525pt>
 File: pictures/1.png Graphic file (type png)
 <use pictures/1.png>
-Package pdftex.def Info: pictures/1.png  used on input line 114.
+Package pdftex.def Info: pictures/1.png  used on input line 415.
 (pdftex.def)             Requested size: 446.16383pt x 234.67514pt.
 
-Overfull \hbox (56.16383pt too wide) in paragraph at lines 114--115
+Overfull \hbox (56.16383pt too wide) in paragraph at lines 415--416
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 123.
-
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 123.
- [5 <./pictures/1.png>] [6]
-Overfull \hbox (7.09659pt too wide) detected at line 227
+[19] [20 <./pictures/1.png>] [21]
+Overfull \hbox (7.09659pt too wide) detected at line 528
 \OML/cmm/m/it/12 h[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) = \OML
 /cmm/m/it/12 y[] \OMS/cmsy/m/n/12 ^^L \OML/cmm/m/it/12 y[] \OMS/cmsy/m/n/12 ^^L
  \OML/cmm/m/it/12 y[] \OMS/cmsy/m/n/12 ^^L \OML/cmm/m/it/12 z[] \OMS/cmsy/m/n/1
@@ -495,86 +552,83 @@ mr/m/n/12 )[] \OMS/cmsy/m/n/12 ^^L \OT1/cmr/m/n/12 (2 \OMS/cmsy/m/n/12 ^^L \OML
 L \OML/cmm/m/it/12 x[]:
  []
 
-<pictures/2.png, id=41, 519.9425pt x 399.4925pt>
+<pictures/2.png, id=99, 519.9425pt x 399.4925pt>
 File: pictures/2.png Graphic file (type png)
 <use pictures/2.png>
-Package pdftex.def Info: pictures/2.png  used on input line 229.
+Package pdftex.def Info: pictures/2.png  used on input line 530.
 (pdftex.def)             Requested size: 259.97061pt x 199.74576pt.
-[7 <./pictures/2.png>]
-<pictures/3.png, id=47, 550.055pt x 325.215pt>
+[22 <./pictures/2.png>]
+<pictures/3.png, id=104, 550.055pt x 325.215pt>
 File: pictures/3.png Graphic file (type png)
 <use pictures/3.png>
-Package pdftex.def Info: pictures/3.png  used on input line 238.
+Package pdftex.def Info: pictures/3.png  used on input line 539.
 (pdftex.def)             Requested size: 385.03587pt x 227.64894pt.
+<pictures/4.png, id=105, 575.14874pt x 321.2pt>
+File: pictures/4.png Graphic file (type png)
+<use pictures/4.png>
+Package pdftex.def Info: pictures/4.png  used on input line 544.
+(pdftex.def)             Requested size: 402.60138pt x 224.83847pt.
 
-Overfull \hbox (2.87845pt too wide) in paragraph at lines 236--242
+Overfull \hbox (12.60138pt too wide) in paragraph at lines 544--545
+ [] 
+ []
+
+
+Overfull \hbox (2.87845pt too wide) in paragraph at lines 537--547
 []\T2A/cmr/m/n/12 ¬ всех ри-сун-ках ни-же, двой-ствен-ные раз-би-е-ни€ бы-ли пр
 о-ве-де-ны вдоль
  []
 
-[8 <./pictures/3.png>]
-<pictures/4.png, id=52, 575.14874pt x 321.2pt>
-File: pictures/4.png Graphic file (type png)
-<use pictures/4.png>
-Package pdftex.def Info: pictures/4.png  used on input line 244.
-(pdftex.def)             Requested size: 575.14734pt x 321.19922pt.
-
-Overfull \hbox (185.14734pt too wide) in paragraph at lines 244--245
- [] 
- []
-
-[9 <./pictures/4.png>]
-<pictures/5.png, id=57, 490.83376pt x 419.5675pt>
+<pictures/5.png, id=106, 490.83376pt x 419.5675pt>
 File: pictures/5.png Graphic file (type png)
 <use pictures/5.png>
-Package pdftex.def Info: pictures/5.png  used on input line 250.
-(pdftex.def)             Requested size: 490.83255pt x 419.56647pt.
-
-Overfull \hbox (100.83255pt too wide) in paragraph at lines 250--251
- [] 
- []
-
-[10 <./pictures/5.png>]
-<pictures/6.png, id=62, 633.36626pt x 476.78125pt>
+Package pdftex.def Info: pictures/5.png  used on input line 549.
+(pdftex.def)             Requested size: 343.58128pt x 293.69524pt.
+<pictures/6.png, id=107, 633.36626pt x 476.78125pt>
 File: pictures/6.png Graphic file (type png)
 <use pictures/6.png>
-Package pdftex.def Info: pictures/6.png  used on input line 256.
-(pdftex.def)             Requested size: 633.36472pt x 476.78008pt.
+Package pdftex.def Info: pictures/6.png  used on input line 554.
+(pdftex.def)             Requested size: 443.35336pt x 333.74458pt.
 
-Overfull \hbox (243.36472pt too wide) in paragraph at lines 256--257
+Overfull \hbox (53.35336pt too wide) in paragraph at lines 554--555
  [] 
  []
 
-[11 <./pictures/6.png>] [12] (./Tropical Geometry.aux) ) 
+[23 <./pictures/3.png>] [24 <./pictures/4.png> <./pictures/5.png>] [25 <./pictu
+res/6.png>] (./Tropical Geometry.aux) ) 
 Here is how much of TeX's memory you used:
- 3723 strings out of 492609
- 46814 string characters out of 6131461
- 123159 words of memory out of 5000000
- 7560 multiletter control sequences out of 15000+600000
- 16701 words of font info for 44 fonts, out of 8000000 for 9000
+ 3757 strings out of 492609
+ 47438 string characters out of 6131461
+ 123214 words of memory out of 5000000
+ 7589 multiletter control sequences out of 15000+600000
+ 21742 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,27p,1743b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts
-/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/pu
-blic/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx14
-40.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti120
-0.pfb>
-Output written on "Tropical Geometry.pdf" (12 pages, 590006 bytes).
+ 41i,13n,27p,1820b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-sup
+er/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cme
+x10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0800.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on "Tropical Geometry.pdf" (25 pages, 767756 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+ 196 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
